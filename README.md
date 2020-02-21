@@ -12,6 +12,7 @@ Here is first image upload
 
 ![](images/t1.JPG)
 
-Adding another image  
+Adding another image
+
 ![](images/u0.JPG)
 
