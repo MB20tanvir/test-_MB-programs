@@ -10,8 +10,8 @@ This is **example** of addling link to [Tanvir's website](http://archive.fabacad
 
 Here is first image upload
 
-![](.gitbook/assets/t1.JPG)
+![](images/t1.JPG)
 
 Adding another image  
-![](.gitbook/assets/u0.JPG)
+![](images/u0.JPG)
 
