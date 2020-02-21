@@ -1,4 +1,4 @@
-# test-_MB-programs
+# Test-_MB-programs
 This is project documentation repo for MB course projects
 ## adding more text to check
 Check if this **works**
